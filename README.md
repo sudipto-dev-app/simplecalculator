@@ -1,7 +1,7 @@
 # simplecalculator
 
 A new Flutter project.
-![Screenshot_2024-05-10-02-01-09-698_com.example.simplecalculator.jpg](picture%2FScreenshot_2024-05-10-02-01-09-698_com.example.simplecalculator.jpg)
+<img alt="Screenshot_2024-05-10-02-01-09-698_com.example.simplecalculator.jpg" height="800" src="picture%2FScreenshot_2024-05-10-02-01-09-698_com.example.simplecalculator.jpg" width="500"/>
 ![Screenshot_2024-05-10-02-01-36-765_com.example.simplecalculator.jpg](picture%2FScreenshot_2024-05-10-02-01-36-765_com.example.simplecalculator.jpg)
 
 ## Getting Started
